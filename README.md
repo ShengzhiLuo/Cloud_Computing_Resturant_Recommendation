@@ -1,15 +1,8 @@
-# Chatbot Concierge #
+# Restaurant recommendation and reservation
+## 1. Overview
+- A serverless and dynamic website with AWS S3, Cognito, API Gateway, Lambda and DynamoDB.
+- Crawled NYC restaurant information in Yelp with Requests and stored in Elasticsearch for further search.
+- Created chatbot using Lex, adopted SQS queue to store reservation information temporarily and then sent message to customer by SNS.
+- Devised the recommendation module by calculating best matching restaurants and dropping those far away from customers with Google Maps API.
 
-## About ##
-
-Frontend starter repository for HW 1 of the Cloud Computing & Big Data
-class at Columbia University and New York University.
-
-## Usage ##
-
-1. Clone the repository.
-2. Replace `/assets/js/sdk/apigClient.js` with your own SDK file from API
-   Gateway.
-3. Open `chat.html` in any browser.
-4. Start sending messages to test the chatbot interaction.
 
