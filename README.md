@@ -19,9 +19,9 @@ We have support for Yelp-API with suggestions and real time chat.
 ![diagram](Images/architecture_diagram.png)
 
 ## Chat DEMO
-![DEMO1](Images/ChatConcierge.png) 
+![DEMO1](Images/ChatbotConcierge.png) 
 
-![DEMO2](Images/ChatConcierge2.png) 
+![DEMO2](Images/ChatbotConcierge2.png) 
 
 ## Steps
 1. Build and deploy the frontend of the application<br>
