@@ -18,8 +18,10 @@ We have support for Yelp-API with suggestions and real time chat.
 ## Chat Architecture Diagram
 ![diagram](Images/architecture_diagram.png)
 
-## Chat Example
-![example](Images/chat_example.png)
+## Chat DEMO
+![DEMO1](Images/ChatConcierge.png) 
+
+![DEMO2](Images/ChatConcierge2.png) 
 
 ## Steps
 1. Build and deploy the frontend of the application<br>
